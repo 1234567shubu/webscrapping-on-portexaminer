@@ -1,0 +1,11 @@
+{
+  "data_file" : "movie_meta_data.csv",
+  "genre" : "Drama",
+  "percentile" : 10,
+  "year" : 1996,
+  "topN" : 10,
+  "movie" : "The Transformers: The Movie",
+  "region" : "Japan",
+  "flag" : 0
+}
+
